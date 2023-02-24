@@ -441,6 +441,7 @@ header.active {
 
 .featured .box-container .box .image-container .small-image img {
     width: 100%;
+    height: 92px;
     padding: .5rem;
     margin-bottom: 1rem;
     border: .1rem solid var(--light-color);
